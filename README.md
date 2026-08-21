@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/prithaghosh438-ops/pritha/tree/master/0933-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prithaghosh438-ops/pritha/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prithaghosh438-ops/pritha/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prithaghosh438-ops/pritha/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
