@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/prithaghosh438-ops/pritha/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/prithaghosh438-ops/pritha/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 | [1472-design-browser-history](https://github.com/prithaghosh438-ops/pritha/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/prithaghosh438-ops/pritha/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prithaghosh438-ops/pritha/tree/master/2073-time-needed-to-buy-tickets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prithaghosh438-ops/pritha/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -97,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/prithaghosh438-ops/pritha/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
