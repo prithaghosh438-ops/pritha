@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithaghosh438-ops/pritha/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/prithaghosh438-ops/pritha/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/prithaghosh438-ops/pritha/tree/master/0739-daily-temperatures) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
@@ -141,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
