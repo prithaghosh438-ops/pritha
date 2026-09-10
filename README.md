@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/prithaghosh438-ops/pritha/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/prithaghosh438-ops/pritha/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -146,4 +149,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
