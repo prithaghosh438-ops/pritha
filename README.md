@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/prithaghosh438-ops/pritha/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/prithaghosh438-ops/pritha/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
+| [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
 | ------- |
