@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithaghosh438-ops/pritha/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
+| [1143-longest-common-subsequence](https://github.com/prithaghosh438-ops/pritha/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/prithaghosh438-ops/pritha/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/prithaghosh438-ops/pritha/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
