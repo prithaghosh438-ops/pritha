@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/prithaghosh438-ops/pritha/tree/master/1472-design-browser-history) |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/prithaghosh438-ops/pritha/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prithaghosh438-ops/pritha/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -226,10 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
@@ -238,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
