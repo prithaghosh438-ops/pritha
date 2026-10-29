@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prithaghosh438-ops/pritha/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/prithaghosh438-ops/pritha/tree/master/0198-house-robber) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prithaghosh438-ops/pritha/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prithaghosh438-ops/pritha/tree/master/0056-merge-intervals) |
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
