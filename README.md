@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prithaghosh438-ops/pritha/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/prithaghosh438-ops/pritha/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/prithaghosh438-ops/pritha/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
 ## 0-1 Knapsack
 |  |
 | ------- |
