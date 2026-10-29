@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prithaghosh438-ops/pritha/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Monotonic Queue
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -219,8 +221,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
