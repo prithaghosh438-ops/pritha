@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/prithaghosh438-ops/pritha/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/prithaghosh438-ops/pritha/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/prithaghosh438-ops/pritha/tree/master/1472-design-browser-history) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/prithaghosh438-ops/pritha/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/prithaghosh438-ops/pritha/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/prithaghosh438-ops/pritha/tree/master/0994-rotting-oranges) |
 ## Knapsack Problem
 |  |
 | ------- |
