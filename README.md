@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -230,15 +231,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prithaghosh438-ops/pritha/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
@@ -264,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
