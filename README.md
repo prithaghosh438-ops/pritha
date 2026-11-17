@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prithaghosh438-ops/pritha/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/prithaghosh438-ops/pritha/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0179-largest-number) |
 | [1143-longest-common-subsequence](https://github.com/prithaghosh438-ops/pritha/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/prithaghosh438-ops/pritha/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/prithaghosh438-ops/pritha/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
