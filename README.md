@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/prithaghosh438-ops/pritha/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/prithaghosh438-ops/pritha/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/prithaghosh438-ops/pritha/tree/master/0994-rotting-oranges) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
+| [0740-delete-and-earn](https://github.com/prithaghosh438-ops/pritha/tree/master/0740-delete-and-earn) |
 | [1122-relative-sort-array](https://github.com/prithaghosh438-ops/pritha/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/prithaghosh438-ops/pritha/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/prithaghosh438-ops/pritha/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
