@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prithaghosh438-ops/pritha/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/prithaghosh438-ops/pritha/tree/master/1472-design-browser-history) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
 | [1672-richest-customer-wealth](https://github.com/prithaghosh438-ops/pritha/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prithaghosh438-ops/pritha/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
+| [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
 ## Memoization
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prithaghosh438-ops/pritha/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
 ## Graph Theory
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/prithaghosh438-ops/pritha/tree/master/0785-is-graph-bipartite) |
+## Number Theory
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
