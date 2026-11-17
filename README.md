@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
 | [0933-number-of-recent-calls](https://github.com/prithaghosh438-ops/pritha/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/prithaghosh438-ops/pritha/tree/master/1472-design-browser-history) |
 ## Queue
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prithaghosh438-ops/pritha/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/prithaghosh438-ops/pritha/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/prithaghosh438-ops/pritha/tree/master/0239-sliding-window-maximum) |
+| [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/prithaghosh438-ops/pritha/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prithaghosh438-ops/pritha/tree/master/0416-partition-equal-subset-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/prithaghosh438-ops/pritha/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -175,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prithaghosh438-ops/pritha/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
 |  |
@@ -291,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
