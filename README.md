@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prithaghosh438-ops/pritha/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prithaghosh438-ops/pritha/tree/master/0509-fibonacci-number) |
 | [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
+| [1952-three-divisors](https://github.com/prithaghosh438-ops/pritha/tree/master/1952-three-divisors) |
 ## Memoization
 |  |
 | ------- |
@@ -296,8 +297,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/prithaghosh438-ops/pritha/tree/master/1627-graph-connectivity-with-threshold) |
+| [1952-three-divisors](https://github.com/prithaghosh438-ops/pritha/tree/master/1952-three-divisors) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/prithaghosh438-ops/pritha/tree/master/0307-range-sum-query-mutable) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prithaghosh438-ops/pritha/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prithaghosh438-ops/pritha/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prithaghosh438-ops/pritha/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
